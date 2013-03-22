@@ -1,8 +1,12 @@
-// Add media queries for various widths if you'd like
-@media (min-width: ) and (max-width: ) {
-
+@media (min-width:0) and (max-width:480px) {
+  article {
+    width:100%;
+  }
 }
 
-@media (min-width: ) and (max-width: ) {
-
+@media (min-width:481px) and (max-width:888px) {
+  article {
+    width:50%;
+  }
 }
+
