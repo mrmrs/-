@@ -1,7 +1,6 @@
-# Unicode Characters
-===================================================================
+# Unicode
+---------------------------------------------------------------------------------
 
-This is my collection of unicode characters that I enjoy staring at.
-Obviously a highly useful repository.
+Large format unicode characters I enjoy staring at. Nothing more, nothing less.
 
-Pull requests encouraged and accepted.
+Project hosted at [http://mrmrs.github.io/-/]
