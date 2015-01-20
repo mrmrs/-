@@ -1,0 +1,43 @@
+{
+  "name": "-",
+  "version": "1.0.0",
+  "description": "My favorite unicode characters",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrmrs/-.git"
+  },
+  "keywords": [
+    "unicode",
+    "colors",
+    "html"
+  ],
+  "author": "mrmrs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmrs/-/issues"
+  },
+  "devDependencies": {
+    "browser-sync": "^1.1.1",
+    "css": "^2.1.0",
+    "gulp": "^3.8.2",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-csslint": "^0.1.4",
+    "gulp-minify-css": "^0.3.5",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^0.7.2",
+    "gulp-shell": "^0.2.8",
+    "gulp-size": "^0.4.0",
+    "gulp-stylestats": "^0.2.8",
+    "gulp-uncss": "^0.4.4",
+    "gulp-util": "^2.2.18",
+    "gulp-watch": "^0.6.8",
+    "node-sass": "^0.9"
+  },
+  "contributors": [
+    { "name": "adam morse", "email": "hi@mrmrs.cc" }
+  ],
+  "scripts": {
+    "start": "gulp"
+  }
+}
